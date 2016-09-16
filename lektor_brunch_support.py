@@ -2,10 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# TODO: Clean this up and split it out into a seperate library.
 # TODO: Add configuration.
-# TODO: Detect if project is being built instead of served, and automatically
-#       enable production mode.
 
 import os
 
