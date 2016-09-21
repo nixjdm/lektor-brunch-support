@@ -15,7 +15,7 @@ except TypeError:
 
 setup(
     name='lektor-brunch-support',
-    version='0.1.0',
+    version='0.1.1',
     description='Adds support for Brunch to Lektor.',
     long_description=long_description,
     url='http://github.com/SShrike/lektor-brunch-support',
