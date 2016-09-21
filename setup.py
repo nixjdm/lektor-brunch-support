@@ -18,7 +18,7 @@ setup(
     version='0.1.0',
     description='Adds support for Brunch to Lektor.',
     long_description=long_description,
-    url='http://github.com/lektor/lektor-brunch-support',
+    url='http://github.com/SShrike/lektor-brunch-support',
     author='Severen Redwood',
     author_email='severen@shrike.me',
     license='MPL-2.0',
